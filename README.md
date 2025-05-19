@@ -39,7 +39,7 @@ In this exercise, you will:
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise" href="https://github.com/people-mozilla-org/darvinmonteras.mozilla.org/issues/1" href="https://github.com/darvinmonteras-live-com/GitLab-Web-IDE/issues/1" href="https://github.com/darvinmonteras-live-com/darvinmonteras-live-com/issues/1">
+   <a id="start-exercise" href="https://github.com/people-mozilla-org/gitlab-mozilla-org/issues/1" href="https://github.com/people-mozilla-org/darvinmonteras.mozilla.org/issues/1" href="https://github.com/darvinmonteras-live-com/GitLab-Web-IDE/issues/1" href="https://github.com/darvinmonteras-live-com/darvinmonteras-live-com/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
